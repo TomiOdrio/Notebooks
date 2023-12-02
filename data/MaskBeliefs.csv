@@ -1,0 +1,102 @@
+Gender,ResidentialElder,InteractedElder,Restaurant,PreventSpread,Reason,Public
+Female,No,Yes,Less or Equal than 3,Yes,To protect yourself AND others,Yes
+Male,No,No,Less or Equal than 3,Yes,To protect yourself AND others,Yes
+Male,No,Yes,Zero,Yes,To protect yourself AND others,Yes
+Female,No,Yes,Less or Equal than 3,Yes,To protect yourself AND others,Yes
+Female,No,Yes,Less or Equal than 3,Yes,To protect yourself AND others,Yes
+Male,No,No,Zero,Yes,To protect other people,No
+Male,No,Yes,Less or Equal than 3,Yes,To protect other people,Yes
+Male,No,Yes,Zero,Yes,Because you are required to,Yes
+Female,No,Yes,Less or Equal than 3,Yes,To protect other people,Yes
+Female,No,No,Zero,Yes,To protect yourself AND others,Yes
+Female,Yes,No,Zero,Yes,To protect yourself,Yes
+Female,No,Yes,More than 3,Yes,To protect yourself AND others,No
+Male,No,No,Zero,Yes,Because you are required to,No
+Female,No,Yes,Zero,Yes,To protect yourself AND others,Yes
+Male,No,Yes,Zero,Yes,To protect other people,No
+Male,No,Yes,Zero,Yes,To protect yourself AND others,Yes
+Male,No,No,Less or Equal than 3,Yes,Because you are required to,Yes
+Male,Yes,Yes,Less or Equal than 3,Yes,To protect yourself AND others,Yes
+Female,No,No,Zero,Yes,To protect yourself AND others,Yes
+Female,No,No,Zero,Yes,To protect yourself AND others,Yes
+Male,No,Yes,Zero,Yes,To protect yourself AND others,Yes
+Female,No,Yes,Less or Equal than 3,Yes,To protect yourself AND others,No
+Female,No,Yes,Less or Equal than 3,Yes,Because you are required to,No
+Male,No,No,Zero,Yes,To protect yourself AND others,Yes
+Female,No,No,Zero,Yes,To protect yourself AND others,Yes
+Male,No,Yes,Zero,No,To protect yourself AND others,Yes
+Female,Yes,No,Zero,Yes,To protect yourself AND others,Yes
+Male,No,Yes,Zero,Yes,To protect other people,Yes
+Male,No,No,Zero,Yes,To protect yourself AND others,No
+Female,No,Yes,Less or Equal than 3,Yes,Because you are required to,Yes
+Male,No,Yes,Zero,Yes,To protect yourself AND others,Yes
+Female,No,Yes,Zero,Yes,To protect other people,Yes
+Female,No,Yes,Zero,No,Because you are required to,Yes
+Female,No,No,Zero,Yes,To protect yourself,No
+Female,No,Yes,Zero,Yes,To protect yourself AND others,Yes
+Male,Yes,Yes,Zero,Yes,To protect other people,Yes
+Female,No,Yes,Less or Equal than 3,Yes,To protect yourself AND others,Yes
+Female,No,Yes,Zero,Yes,To protect yourself AND others,Yes
+Male,No,Yes,Less or Equal than 3,Yes,To protect yourself AND others,Yes
+Female,No,No,Zero,Yes,To protect yourself AND others,Yes
+Female,No,No,Zero,Yes,To protect yourself AND others,Yes
+Female,No,Yes,Zero,Yes,To protect yourself AND others,Yes
+Male,No,Yes,Less or Equal than 3,Yes,To protect yourself,Yes
+Female,Yes,Yes,Zero,Yes,To protect yourself AND others,Yes
+Female,No,Yes,Zero,Yes,To protect yourself AND others,Yes
+Female,Yes,Yes,Zero,Yes,To protect other people,Yes
+Female,No,Yes,Zero,Yes,To protect yourself AND others,Yes
+Female,No,Yes,Less or Equal than 3,No,Because you are required to,No
+Female,No,Yes,Zero,Yes,To protect yourself AND others,Yes
+Male,No,Yes,Zero,Yes,To protect yourself AND others,Yes
+Male,No,Yes,Zero,Yes,To protect yourself,Yes
+Male,No,Yes,Zero,Yes,To protect other people,Yes
+Male,No,Yes,Zero,Yes,Because you are required to,No
+Female,No,No,Zero,Yes,To protect yourself AND others,Yes
+Male,No,Yes,Less or Equal than 3,Yes,To protect yourself AND others,Yes
+Female,No,Yes,Less or Equal than 3,Yes,To protect yourself AND others,Yes
+Female,Yes,Yes,Less or Equal than 3,No,Because you are required to,No
+Female,No,No,Zero,Yes,To protect yourself AND others,Yes
+Male,No,No,Less or Equal than 3,Yes,To protect yourself AND others,No
+Male,No,No,Zero,Yes,To protect yourself AND others,Yes
+Female,No,Yes,Less or Equal than 3,Yes,To protect other people,Yes
+Female,No,Yes,Zero,Yes,To protect yourself AND others,Yes
+Female,No,No,Zero,Yes,To protect yourself AND others,Yes
+Male,No,Yes,Zero,Yes,To protect other people,Yes
+Female,No,No,Zero,Yes,To protect yourself AND others,Yes
+Female,Yes,Yes,More than 3,No,To protect yourself AND others,Yes
+Male,No,Yes,Zero,No,Because you are required to,No
+Female,No,Yes,Zero,Yes,To protect yourself AND others,Yes
+Female,No,No,Zero,Yes,To protect other people,Yes
+Male,No,No,Zero,Yes,To protect yourself AND others,Yes
+Female,No,Yes,Less or Equal than 3,Yes,To protect yourself AND others,Yes
+Female,No,No,Zero,Yes,To protect yourself AND others,Yes
+Male,No,No,Less or Equal than 3,Yes,To protect yourself AND others,Yes
+Male,Yes,Yes,Less or Equal than 3,Yes,To protect yourself AND others,Yes
+Male,No,No,Zero,Yes,To protect yourself AND others,Yes
+Male,No,No,Zero,Yes,To protect other people,Yes
+Female,No,Yes,Less or Equal than 3,Yes,To protect yourself AND others,Yes
+Male,No,No,Zero,Yes,To protect other people,Yes
+Male,Yes,No,Zero,Yes,To protect yourself AND others,Yes
+Female,No,No,Zero,Yes,To protect yourself AND others,Yes
+Female,No,Yes,Zero,Yes,To protect other people,No
+Female,No,Yes,Less or Equal than 3,Yes,To protect yourself,Yes
+Male,No,Yes,More than 3,Yes,Because you are required to,No
+Male,Yes,Yes,Zero,Yes,To protect yourself AND others,Yes
+Male,No,No,Zero,Yes,To protect yourself AND others,Yes
+Female,No,No,Zero,Yes,To protect other people,Yes
+Female,No,No,Zero,No,Because you are required to,Yes
+Male,No,No,Zero,Yes,To protect yourself AND others,Yes
+Female,No,Yes,Less or Equal than 3,Yes,To protect yourself AND others,Yes
+Female,No,Yes,Zero,Yes,To protect yourself AND others,Yes
+Male,Yes,Yes,Zero,Yes,To protect yourself AND others,Yes
+Female,No,Yes,Zero,Yes,To protect other people,Yes
+Male,No,No,Zero,Yes,To protect yourself,No
+Female,No,Yes,Zero,Yes,To protect yourself AND others,Yes
+Female,No,Yes,Zero,Yes,To protect other people,Yes
+Female,No,Yes,Less or Equal than 3,Yes,To protect yourself AND others,Yes
+Female,No,No,More than 3,Yes,To protect yourself AND others,Yes
+Male,No,No,Less or Equal than 3,Yes,To protect yourself AND others,Yes
+Male,Yes,Yes,Zero,Yes,To protect yourself AND others,No
+Male,No,No,Zero,Yes,To protect yourself AND others,Yes
+Female,No,Yes,Less or Equal than 3,Yes,To protect yourself AND others,No
